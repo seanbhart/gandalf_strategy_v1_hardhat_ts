@@ -60,3 +60,11 @@ Add to config file:
 `import 'tsconfig-paths/register';`
 
 More Hardhat TS setup info: `https://hardhat.org/guides/typescript.html`
+
+
+Other commands:
+```
+hh
+hh compile
+hh test
+```
